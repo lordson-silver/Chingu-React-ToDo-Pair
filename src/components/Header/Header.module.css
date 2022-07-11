@@ -1,0 +1,10 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.h1 {
+  font-size: 2em;
+  text-transform: uppercase;
+}
